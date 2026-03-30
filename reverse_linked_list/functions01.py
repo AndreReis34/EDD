@@ -14,6 +14,7 @@ def reverseList(head):
         curr =  nextNode
 
     return prev
+    
 
 def printList(node):
     while node is not None:
@@ -23,7 +24,6 @@ def printList(node):
 
         node = node.next
     print()
-
 
 
 

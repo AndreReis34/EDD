@@ -4,6 +4,7 @@ import maximum_subarray_sum
 import unico_substring
 import anagrams
 import reverse_linked_list
+import cycle_in_linked_list
 
 # fatorial.main()
 # word_search.main01()
@@ -14,4 +15,7 @@ import reverse_linked_list
 # unico_substring.main02()
 # anagrams.main()
 # reverse_linked_list.main01()
-reverse_linked_list.main02()
+# reverse_linked_list.main02()
+cycle_in_linked_list.main01()
+cycle_in_linked_list.main02()
+
