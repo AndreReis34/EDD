@@ -1,0 +1,2 @@
+from merge_two_linked_list.solution01 import main01
+from merge_two_linked_list.solution02 import main02
