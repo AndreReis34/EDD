@@ -27,6 +27,7 @@ def main02():
     head1.next.next = Node(15)
     head1.next.next.next = Node(40)
 
+
     head2 = Node(2)
     head2.next = Node(3)
     head2.next.next = Node(20)
