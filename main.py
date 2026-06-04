@@ -8,6 +8,7 @@ import cycle_in_linked_list
 import merge_two_linked_list
 import merge_k_sorted_linked_list
 import clone_linked_list
+import infix_to_postfix
 
 
 # fatorial.main()
