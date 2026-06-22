@@ -13,13 +13,4 @@ def isRightAssociative(c):
 	return c == '^'
 
 def infixToPostfix(s):
-	st = []
-	res = []
-
-	for c in s:
-		if('a'<=c<='z')or('A'<=c<='Z')or('0'<=c<='9'):
-			res.append(c)
-		elif c == '(':
-			st.append('(')
-		elif c == ')':
-			
+	pass

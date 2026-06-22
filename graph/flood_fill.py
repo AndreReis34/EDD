@@ -1,6 +1,5 @@
 def dfs(img, x, y, oldColor, newColor):
-	if(x < 0 or x >= len(img) or y < 0 or x >= len(img[0])
-		or img[x][y] != oldColor):
+	if(x < 0 or x >= len(img) or y < 0 or y >= len(img[0]) or img[x][y] != oldColor):
 		return
 
 	img[x][y] = newColor
